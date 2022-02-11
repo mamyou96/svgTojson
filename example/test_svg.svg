@@ -1,0 +1,18 @@
+<svg width="492" height="266" viewBox="0 0 492 266" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="annotation">
+<rect id="image" width="492" height="266" fill="#C4C4C4" fill-opacity="0.5"/>
+<g id="boundary-stair">
+<rect id="Rectangle 1" x="83" y="67" width="93" height="56" fill="#C4C4C4"/>
+<rect id="Rectangle 2" x="279" y="95" width="106" height="56" fill="#C4C4C4"/>
+</g>
+<g id="boundary-exterior">
+<path id="Vector 1" d="M64 37H142V27H268V59H408V186M64 166H177V210H219" stroke="black"/>
+<path id="Vector 2" d="M176 236H433V178" stroke="black"/>
+</g>
+<g id="wall-face-drywall">
+<path id="Vector 3" d="M206 99H231V145H250V79H262M293 179H353L377 201L361 217H288L293 179Z" stroke="black"/>
+<path id="Vector 4" d="M26 76V126H53L71 57" stroke="black"/>
+<path id="Vector 5" d="M183 144H123L183 119V144Z" stroke="black"/>
+</g>
+</g>
+</svg>
