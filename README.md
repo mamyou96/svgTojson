@@ -20,17 +20,26 @@ Wherein:
 An example SVG and associated JSON file are provided in `example/test_svg.svg` and `example/my_out.json`.
 
 1. Install pip dependencies
-```
+
+```bash
 python3 -m pip install -r requirements.txt
 ```
 2. Usage
 
 There are two ways to run the convertor. You can `import convertor from driver` and use 
-```convert('test_svg.svg','my_out.json')```
+
+```bash
+convert(<path/to/svg/file>, <path/to/json/file>)
+```
 
 Or it can get executed from command line with the following command. 
-```python driver.py --file_in <path/to/svg/file> --file_out <path/to/json/file>```
+
+```
+python driver.py --file_in <path/to/svg/file> --file_out <path/to/json/file>
+```
 
 Here is an example for its usage which produces the example json file.
-```python driver.py --file_in test_svg.svg --file_out my_out.json```
+```
+python driver.py --file_in test_svg.svg --file_out my_out.json
+```
 
